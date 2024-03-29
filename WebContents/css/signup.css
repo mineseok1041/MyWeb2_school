@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+.input {
+	width: 400px;
+}
+
+.id:valid,
+.pw:valid,
+.name:valid,
+.email:valid {
+	outline: 2px solid #87d152;
+}
